@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlScanner</string>
+    <string name="Instruc">Please enter the two values</string>
+    <string name="sub">Send to Bluetooth-device</string>
+    <string name="x_steps">X-Steps</string>
+    <string name="y_steps">Y-Steps</string>
+    <string name="scanning_for_bt_devices">Scanning for Bluetooth devices</string>
+</resources>
